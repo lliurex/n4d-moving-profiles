@@ -1,0 +1,68 @@
+n4d-moving-profiles (3.0.8) xenial; urgency=medium
+
+  * Remove warning from startup method
+
+ -- M.Angel Juan <m.angel.juan@gmail.com>  Wed, 02 May 2018 12:58:02 +0200
+
+n4d-moving-profiles (3.0.7) xenial; urgency=medium
+
+  * First release to xenial
+
+ -- Juan Ramon Pelegrina <juapesai@hotmail.com>  Wed, 24 Feb 2016 17:30:57 +0100
+
+n4d-moving-profiles (3.0.4) trusty; urgency=low
+
+  * Improved postinstall
+
+ -- Enrique Medina Gremaldos <quiqueiii@gmail.com>  Wed, 17 Jun 2015 08:58:31 +0200
+
+n4d-moving-profiles (3.0.3) trusty; urgency=low
+
+  * Updated default setup
+
+ -- Enrique Medina Gremaldos <quiqueiii@gmail.com>  Mon, 15 Jun 2015 14:19:16 +0200
+
+n4d-moving-profiles (3.0.2) trusty; urgency=low
+
+  * Updated default settings
+
+ -- Enrique Medina Gremaldos <quiqueiii@gmail.com>  Mon, 27 Apr 2015 17:57:23 +0200
+
+n4d-moving-profiles (3.0.1) trusty; urgency=low
+
+  * Updated default settings
+  * Fixed bug in include structure computation
+
+ -- Enrique Medina Gremaldos <quiqueiii@gmail.com>  Wed, 08 Apr 2015 15:52:59 +0200
+
+n4d-moving-profiles (3.0.0) trusty; urgency=low
+
+  * Using json as config files
+  * Setup is provided either in raw json, for gui and computed include list, for cli
+
+ -- Enrique Medina Gremaldos <quiqueiii@gmail.com>  Tue, 24 Mar 2015 11:56:08 +0100
+
+n4d-moving-profiles (2.0.0) trusty; urgency=low
+
+  * setup is read from hard disk once, and then keep in memory so
+    each read request does not perform a hard drive access
+
+ -- Enrique Medina Gremaldos <quiqueiii@gmail.com>  Tue, 28 Oct 2014 09:43:02 +0100
+
+n4d-moving-profiles (1.0~beta2) precise; urgency=high
+
+  * Updated postinstall
+
+ -- Angel Berlanas Vicente <angel.berlanas@gmail.com>  Tue, 17 Dec 2013 12:17:40 +0100
+
+n4d-moving-profiles (1.0~beta1) precise; urgency=high
+
+  * Setup file is no longer installed by default
+
+ -- Enrique Medina Gremaldos <lliurex_devel4@edu.gva.es>  Mon, 16 Dec 2013 11:47:36 +0100
+
+n4d-moving-profiles (1.0~alpha) precise; urgency=low
+
+  * Initial release.
+
+ -- Enrique Medina Gremaldos <lliurex_devel4@edu.gva.es>  Tue, 16 Apr 2013 11:41:05 +0200
