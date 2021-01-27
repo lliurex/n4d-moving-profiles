@@ -1,8 +1,0 @@
-[SETUP]
-type=python
-path=MovingProfiles.py
-class=MovingProfiles
-[METHODS]
-get_list=anonymous
-get_conf=anonymous
-set_conf=anonymous
