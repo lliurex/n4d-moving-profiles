@@ -1,0 +1,30 @@
+{
+    "SETUP": {
+        "type":"python",
+        "path":"MovingProfiles.py",
+        "class":"MovingProfiles"
+    },
+    "METHODS": {
+        "get_list":
+        {
+            "allowed_groups":[
+                "*",
+                "anonymous"
+            ]
+        },
+        "set_list":
+        {
+            "allowed_groups":[
+                "*",
+                "anonymous"
+            ]
+        },
+        "get_conf":
+        {
+            "allowed_groups":[
+                "*",
+                "anonymous"
+            ]
+        }
+    }
+}
