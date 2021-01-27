@@ -1,9 +1,9 @@
 Format: http://dep.debian.net/deps/dep5
 Upstream-Name: n4d-moving-profiles
-Source: http://svn.lliurex.net/pandora/n4d-moving-profiles
+Source: https://github.com/lliurex/n4d-moving-profiles
 
 Files: *
-Copyright: 2013 Enrique Medina Gremaldos <quiqueiii@gmail.com>
+Copyright: 2021 Enrique Medina Gremaldos <quiqueiii@gmail.com>
 License: GPL-3.0+
 
 License: GPL-3.0+
