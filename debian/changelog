@@ -1,3 +1,9 @@
+n4d-moving-profiles (3.5.0.1) focal; urgency=medium
+
+  * Lots of packaging issues
+
+ -- Enrique Medina Gremaldos <quiqueiii@gmail.com>  Thu, 28 Jan 2021 22:01:31 +0100
+
 n4d-moving-profiles (3.5.0.0) focal; urgency=medium
 
   * Early focal release
