@@ -1,3 +1,9 @@
+n4d-moving-profiles (3.5.0.3) jammy; urgency=medium
+
+  * Jammy release
+
+ -- Enrique Medina Gremaldos <quique@necos.es>  Mon, 13 May 2024 10:20:07 +0200
+
 n4d-moving-profiles (3.5.0.2) focal; urgency=medium
 
   * Lots of packaging issues
