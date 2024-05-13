@@ -15,7 +15,7 @@
 
 
 %:
-	dh $@ --with python3,systemd --buildsystem pybuild
+	dh $@ --with python3 --buildsystem pybuild
 
 
 # dh_make generated override targets
