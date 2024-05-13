@@ -2,10 +2,12 @@ Source: n4d-moving-profiles
 Section: admin
 Priority: extra
 Maintainer: LliureX Team <lliurex@gva.es>
-Build-Depends: debhelper (>= 10), n4d-dev, python3-all, dh-python, python3-setuptools
-Standards-Version: 4.1.2
+Build-Depends: debhelper-compat (= 13), n4d-dev, python3-all, dh-python, python3-setuptools
+Standards-Version: 4.6.0
 Homepage: http://www.lliurex.net
-
+#Vcs-Browser: https://salsa.debian.org/debian/n4d-moving-profiles
+#Vcs-Git: https://salsa.debian.org/debian/n4d-moving-profiles.git
+Rules-Requires-Root: no
 
 Package: n4d-moving-profiles
 Architecture: all
