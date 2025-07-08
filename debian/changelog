@@ -1,3 +1,9 @@
+n4d-moving-profiles (3.5.0.4) jammy; urgency=medium
+
+  * Merged from master 
+
+ -- Hector Garcia Huerta <hectorgh@gmail.com>  Tue, 08 Jul 2025 10:52:05 +0200
+
 n4d-moving-profiles (3.5.0.3) jammy; urgency=medium
 
   * Jammy release
